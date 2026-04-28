@@ -1,4 +1,4 @@
-# Selenium Automation Practice
+# Selenium Automation
 
 End-to-end UI test suite for [Rahul Shetty's Automation Practice page](https://rahulshettyacademy.com/AutomationPractice/), built with Selenium 4, pytest, and the Page Object Model pattern.
 
